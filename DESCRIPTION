@@ -15,3 +15,4 @@ Imports:
 Authors@R: 
     person("Phil", "Donovan", , email = "phildonovan99@protonmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0009-0008-7600-8224"))
+URL: https://phildonovan.github.io/nzdatar/
