@@ -16,6 +16,9 @@
     <loc>https://phildonovan.github.io/nzdatar/index.html</loc>
   </url>
   <url>
+    <loc>https://phildonovan.github.io/nzdatar/reference/get_data_library_path.html</loc>
+  </url>
+  <url>
     <loc>https://phildonovan.github.io/nzdatar/reference/hello.html</loc>
   </url>
   <url>
@@ -23,5 +26,8 @@
   </url>
   <url>
     <loc>https://phildonovan.github.io/nzdatar/reference/nzdatar-package.html</loc>
+  </url>
+  <url>
+    <loc>https://phildonovan.github.io/nzdatar/reference/set_data_library_path.html</loc>
   </url>
 </urlset>
