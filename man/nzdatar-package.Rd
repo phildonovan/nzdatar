@@ -8,6 +8,13 @@
 \description{
 The purpose of this package is to provide a series of functions that connect to a nzdatar library. This library needs to be downloaded separately.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://phildonovan.github.io/nzdatar/}
+}
+
+}
 \author{
 \strong{Maintainer}: Phil Donovan \email{phildonovan99@protonmail.com} (\href{https://orcid.org/0009-0008-7600-8224}{ORCID})
 
